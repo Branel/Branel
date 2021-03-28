@@ -3,4 +3,4 @@ Email me at:
 emirpod02@gmail.com
 My discord tag is:
 branel#3648
-Thanks for reading.
+
