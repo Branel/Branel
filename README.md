@@ -1,5 +1,5 @@
 - Student
-- Currently learning C++ and SQL
+- Learning C++ and SQL
 - I’m looking to contribute to open source projects <br />
 ![Metrics](https://github.com/Branel/Branel/blob/main/github-metrics.svg) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br />
