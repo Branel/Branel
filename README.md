@@ -9,9 +9,12 @@
 
 
 ### My Skills:
+Ordered by mastery
 - Linux (>Ubuntu 12)
-- Java
-- Typescript
+- C++
 - MySQL
+- Java
+- Python
 - Node.js
+
 
