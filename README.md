@@ -8,13 +8,5 @@
  Have any book suggestions? Shoot me a email or find me on discord. I'd prefeer for them to be relevant for Computer Science.
 
 
-### My Skills:
-Ordered by mastery
-- Linux (>Ubuntu 12)
-- C++
-- MySQL
-- Java
-- Python
-- Node.js
 
 
