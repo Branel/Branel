@@ -9,7 +9,6 @@
 Building my website using HTML5, CSS and Javascript
 
  <h3>Currently reading:</h3>Programming: Principles and Practice Using C++ by Bjarne Stroustrup.<br/>
- [GitHub](http://github.com)
  Have any book suggestions? Shoot me a email or find me on discord. I'd prefeer for them to be relevant for Computer Science.
 
 
